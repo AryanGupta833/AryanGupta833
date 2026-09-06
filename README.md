@@ -141,6 +141,6 @@ I'm a CS undergrad at **IIIT Guwahati**, and I spend my time building the unglam
 
 <div align="center">
 
-### ⭐ *"I don't fear distributed systems. Distributed systems fear me."*
+### ⭐ *"I don't fear distributed systems. I love to build them."*
 
 </div>
