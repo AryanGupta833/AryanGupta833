@@ -1,200 +1,146 @@
 <div align="center">
 
-# Aryan Gupta
+# 👋 I'M ARYAN GUPTA
+### *I don't write backends. I engineer systems that refuse to fall over.*
 
-### Backend Engineer • Distributed Systems • Cloud & DevOps Enthusiast
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Distributed+Systems;Java+%2B+Spring+Boot+%3D+%E2%9D%A4%EF%B8%8F;Building+things+that+don't+crash+at+3am;IIIT+Guwahati+%7C+CPI+9.03%2F10;Currently+shipping+chaos-proof+workflows)
 
-<img src="https://komarev.com/ghpvc/?username=AryanGupta833&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=AryanGupta833&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <p>
 <a href="https://linkedin.com/in/aryan-gupta-316a35366"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/Aryn_Gupta"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://codolio.com/profile/Aryan_Gupta1"><img src="https://img.shields.io/badge/Codolio-121212?style=for-the-badge"/></a>
+<a href="mailto:aryangupta26work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧠 THE PITCH
 
-I'm a **Computer Science student at IIIT Guwahati** passionate about designing scalable backend systems and solving complex engineering problems.
+```java
+public class AryanGupta implements BackendEngineer {
 
-My interests revolve around **Backend Engineering, Distributed Systems, Cloud Infrastructure, and DevOps**. I enjoy building systems that are reliable, scalable, and developer-friendly.
+    private final String location = "IIIT Guwahati, Assam";
+    private final String degree   = "B.Tech CSE, 2024–2028";
+    private final double cpi      = 9.03; // out of 10, and counting
 
-### Current Focus
+    private final String[] obsession = {
+        "Distributed Systems", "Workflow Orchestration",
+        "Cloud & DevOps", "Making things that don't page me at 2am"
+    };
 
-- 🚀 Backend Engineering with Java & Spring Boot
-- ⚙️ Distributed Systems & Workflow Orchestration
-- ☁️ Cloud Computing & DevOps
-- 📊 Observability & Developer Infrastructure
-- 🧩 Competitive Programming
+    @Override
+    public String currentMission() {
+        return "Turning coffee into DAGs, retries, and fault-tolerant chaos control.";
+    }
+}
+```
 
----
-
-# 🚀 Featured Projects
-
-## 🔹 Conduit — Distributed Workflow Orchestration Platform
-
-Distributed workflow orchestration engine inspired by **Apache Airflow** and **Netflix Conductor**.
-
-### Highlights
-
-- DAG-based Workflow Execution
-- Parallel Task Scheduling
-- Retry & Timeout Management
-- Workflow Versioning
-- Execution Persistence
-- Concurrent Execution Engine
-
-**Tech Stack**
-
-`Java` • `Spring Boot` • `Spring Data JPA` • `MySQL` • `ExecutorService` • `Resilience4j`
-
-🔗 **Repository**
-
-**https://github.com/AryanGupta833/conduit**
+I'm a CS undergrad at **IIIT Guwahati**, and I spend my time building the unglamorous stuff that makes everything else work — orchestration engines, tracing pipelines, execution planners. If it involves the words *"scalable," "concurrent,"* or *"fault-tolerant,"* I'm already interested.
 
 ---
 
-## 🔹 APIX — AI-Powered API Debugging & Observability Platform
+## ⚡ FEATURED WEAPONS OF MASS PRODUCTION
 
-Developer tool combining API execution, distributed tracing, AI-assisted debugging, and performance analytics.
+### 🔹 [Conduit](https://github.com/AryanGupta833/conduit) — Distributed Workflow Orchestration Platform
+> *Airflow and Netflix Conductor had a baby, and I raised it on Spring Boot.*
 
-### Highlights
+- 🕸️ DAG-based execution with **topological sorting + cycle detection**
+- ⚙️ Concurrent scheduling engine → **35% faster** workflow execution via parallelism
+- 🛡️ Configurable retries, timeouts, and persistent execution state — because things *will* fail, and I planned for it
+- 📈 Scales to **100+ dependent task nodes** with graph visualization & monitoring baked in
 
-- AI-assisted Root Cause Analysis
-- OpenTelemetry + Jaeger
-- Distributed Tracing
-- X-Ray Diagnostics
-- Performance Analytics
-- Request Collections
-
-**Tech Stack**
-
-`Java` • `Spring Boot` • `Spring AI` • `OpenTelemetry` • `Jaeger` • `Reactor Netty`
-
-🔗 **Repository**
-
-**https://github.com/AryanGupta833/APIX**
+`Java` `Spring Boot` `Spring Data JPA` `MySQL` `ExecutorService` `Resilience4j` `OpenAPI/Swagger`
 
 ---
 
-## 🔹 ZyroTrade — Stock Trading Simulation Backend
+### 🔹 [APIX](https://github.com/AryanGupta833/APIX) — AI-Powered API Debugging & Observability Platform
+> *Postman meets an AI detective meets distributed tracing. It's basically Sherlock Holmes for your broken APIs.*
 
-Secure backend simulating stock trading with JWT authentication and live market data.
+- 🤖 AI-assisted root cause analysis using **Spring AI + LLMs** — it doesn't just show you the error, it explains it
+- 🔍 X-Ray diagnostics across DNS, TLS, auth, gateway & downstream layers
+- 📡 Full **OpenTelemetry + Jaeger** distributed tracing
+- ⏱️ Analyzes **1000+ API requests**, cutting debugging time by **60%**
 
-### Highlights
-
-- JWT Authentication
-- Order Execution Engine
-- Portfolio Management
-- Alpha Vantage Integration
-- ACID Transactions
-
-**Tech Stack**
-
-`Java` • `Spring Boot` • `Spring Security` • `JWT` • `MySQL`
-
-🔗 **Repository**
-
-**https://github.com/AryanGupta833/ZyroTrade**
+`Java` `Spring Boot` `Spring AI` `OpenAI API` `Reactor Netty` `WebClient` `OpenTelemetry` `Jaeger`
 
 ---
 
-# 💻 Tech Stack
+### 🔹 [ZyroTrade](https://github.com/AryanGupta833/ZyroTrade) — Stock Trading Simulation Backend
+> *Because what's a backend portfolio without a system that can move fake money really, really fast.*
 
-### Languages
+- 🔐 JWT-secured REST APIs with role-based access control
+- 💸 Order execution engine handling **500+ trades** at **sub-200ms latency**
+- 📊 Live market sync via Alpha Vantage API
+- 🏦 ACID-compliant schema across users, portfolios, holdings & transactions
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb,maven"/>
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,githubactions"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode"/>
-</p>
+`Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `Alpha Vantage API`
 
 ---
 
-# 🏆 Competitive Programming
-
-- 🟢 **LeetCode Knight**
-- ⭐ Peak Contest Rating: **1865**
-- 💯 Solved **400+ DSA Problems**
-- 📈 Regular participant in Weekly & Biweekly Contests
-
----
-
-# 📊 GitHub Analytics
+## 🛠️ TECH ARSENAL
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AryanGupta833&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGupta833&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c,spring,mysql,postgres,mongodb,maven,docker,kubernetes,aws,terraform,githubactions,git,github,idea,vscode"/>
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AryanGupta833&theme=github-dark&hide_border=true"/>
-
-</p>
+| Category | Stack |
+|---|---|
+| **Languages** | Java, Python, C |
+| **Backend** | Spring Boot, REST APIs, Reactor Netty, WebClient |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Observability** | OpenTelemetry, Jaeger |
+| **Currently Leveling Up** | Docker, Kubernetes, AWS, Terraform, GitHub Actions, Microservices, System Design |
+| **Concepts** | Distributed Systems, Concurrency, DSA, OOP |
 
 ---
 
-# 🌱 Currently Learning
-
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- GitHub Actions
-- Microservices
-- System Design
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:aryangupta26work@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/aryan-gupta-316a35366">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/Aryn_Gupta">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codolio.com/profile/Aryan_Gupta1">
-<img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge"/>
-</a>
-
-</p>
-
----
+## 🏆 COMPETITIVE PROGRAMMING STATS
 
 <div align="center">
 
-### ⭐ *"Building scalable backend systems, one commit at a time."*
+🟢 **LeetCode Knight** &nbsp;|&nbsp; ⭐ **Peak Rating: 1865** &nbsp;|&nbsp; 💯 **400+ Problems Solved**
+
+*Regular in weekly & biweekly contests — grinding DSA like it owes me rent.*
+
+</div>
+
+---
+
+## 📊 GITHUB, QUANTIFIED
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AryanGupta833&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanGupta833&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AryanGupta833&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🎓 EDUCATION
+
+**B.Tech, Computer Science & Engineering** — Indian Institute of Information Technology, Guwahati
+`2024 – 2028` &nbsp;|&nbsp; **CPI: 9.03 / 10** (through 4th semester)
+
+---
+
+## 📡 LET'S BUILD SOMETHING THAT DOESN'T CRASH
+
+<p align="center">
+<a href="mailto:aryangupta26work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aryan-gupta-316a35366"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/Aryn_Gupta"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codolio.com/profile/Aryan_Gupta1"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge"/></a>
+</p>
+
+<div align="center">
+
+### ⭐ *"I don't fear distributed systems. Distributed systems fear me."*
 
 </div>
